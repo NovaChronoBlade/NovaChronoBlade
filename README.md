@@ -2,7 +2,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on me
 - 💬 Ask me about your projects
-- 📫 How to reach me: Telegram: [Camilo](https://t.me/NovaChronoBlade)
 
 
 <div align="left">
