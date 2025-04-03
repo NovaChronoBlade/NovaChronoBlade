@@ -1,11 +1,3 @@
-
-<div class="badges" align="center">
-    <a href="https://twitter.com/CamiloBladeYT">
-        <img src="https://img.shields.io/twitter/follow/CamiloBladeYT?style=social" alt="Twitter Badge">
-    </a>
-</div>
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on me
